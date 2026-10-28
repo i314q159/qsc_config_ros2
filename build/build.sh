@@ -66,5 +66,4 @@ main() {
 		qsc_ws_pkg "$@"
 	fi
 }
-
 main "$@"
